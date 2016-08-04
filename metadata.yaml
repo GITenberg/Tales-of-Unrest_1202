@@ -1,0 +1,40 @@
+_repo: Tales-of-Unrest_1202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Tales of Unrest is a collection of short stories by Joseph Conrad originally\
+  \ published in 1898. Four of the five stories had been published previously in various\
+  \ magazines. This was the first published collection of any of Conrad's stories.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1202'
+  wikidata: Q3151490
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories, English'
+- GITenberg
+tableOfContents: 'Karain: a memory -- The idiots -- An outpost of progress -- The
+  return -- The lagoon.'
+title: Tales of Unrest
+url: http://www.gutenberg.org/ebooks/1202
+wikipedia:
+- https://fr.wikipedia.org/wiki/Inqui%C3%A9tude_(recueil_de_nouvelles)
+- https://en.wikipedia.org/wiki/Tales_of_Unrest
+- https://it.wikipedia.org/wiki/Racconti_inquieti
