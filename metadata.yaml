@@ -1,5 +1,8 @@
 _repo: Tales-of-Unrest_1202
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -16,6 +19,8 @@ description: "Tales of Unrest is a collection of short stories by Joseph Conrad 
   \ published in 1898. Four of the five stories had been published previously in various\
   \ magazines. This was the first published collection of any of Conrad's stories.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1202#Tales-of-Unrest
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
